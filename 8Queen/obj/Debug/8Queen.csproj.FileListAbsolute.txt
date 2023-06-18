@@ -1,0 +1,48 @@
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\bin\Debug\8Queen.exe.config
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\bin\Debug\8Queen.exe
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\bin\Debug\8Queen.pdb
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\obj\Debug\8Queen.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\obj\Debug\_8Queen.Form1.resources
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\obj\Debug\_8Queen.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\obj\Debug\8Queen.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\obj\Debug\8Queen.exe
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\8Queen\obj\Debug\8Queen.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\bin\Debug\8Queen.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\obj\Debug\8Queen.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\obj\Debug\8Queen.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\bin\Debug\8Queen.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\bin\Debug\8Queen.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\obj\Debug\8Queen.csprojResolveAssemblyReference.cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\obj\Debug\_8Queen.Form1.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\obj\Debug\_8Queen.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\8Queen\obj\Debug\8Queen.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\bin\Debug\8Queen.exe.config
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\obj\Debug\8Queen.exe
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\obj\Debug\8Queen.pdb
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\bin\Debug\8Queen.exe
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\bin\Debug\8Queen.pdb
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\obj\Debug\8Queen.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\obj\Debug\_8Queen.Form1.resources
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\obj\Debug\_8Queen.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\ttnt\EightQueensGA\8Queen\obj\Debug\8Queen.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\bin\Debug\8Queen.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\obj\Debug\8Queen.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\obj\Debug\8Queen.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\bin\Debug\8Queen.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\bin\Debug\8Queen.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\obj\Debug\8Queen.csprojResolveAssemblyReference.cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\obj\Debug\_8Queen.Form1.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\obj\Debug\_8Queen.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueensGA (1)\8Queen\obj\Debug\8Queen.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\LeoDoi_8queen\8Queen\bin\Debug\8Queen.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\LeoDoi_8queen\8Queen\obj\Debug\8Queen.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\LeoDoi_8queen\8Queen\obj\Debug\8Queen.pdb
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\bin\Debug\8Queen.exe.config
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\obj\Debug\8Queen.exe
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\obj\Debug\8Queen.pdb
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\bin\Debug\8Queen.exe
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\bin\Debug\8Queen.pdb
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\obj\Debug\8Queen.csprojResolveAssemblyReference.cache
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\obj\Debug\_8Queen.Form1.resources
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\obj\Debug\_8Queen.Properties.Resources.resources
+D:\NGUYENPHUONGVIET\2022-2023_Nam3-HK1\Trítuệnhântạo\BaoCao\Nhom7_LeoDoi_8-QuanHau\LeoDoi_8queen\8Queen\obj\Debug\8Queen.csproj.GenerateResource.Cache

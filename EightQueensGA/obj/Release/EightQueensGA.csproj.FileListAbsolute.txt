@@ -1,0 +1,9 @@
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\bin\Release\EightQueensGA.exe
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\bin\Release\EightQueensGA.pdb
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\obj\Release\EightQueensGA.csprojResolveAssemblyReference.cache
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\obj\Release\EightQueensGA.Board.resources
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\obj\Release\EightQueensGA.MainForm.resources
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\obj\Release\EightQueensGA.Properties.Resources.resources
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\obj\Release\EightQueensGA.csproj.GenerateResource.Cache
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\obj\Release\EightQueensGA.exe
+C:\Users\arkam\Desktop\EightQueensGAsrc\EightQueensGA\EightQueensGA\obj\Release\EightQueensGA.pdb

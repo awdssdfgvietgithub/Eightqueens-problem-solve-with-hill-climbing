@@ -1,0 +1,12 @@
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Trítuệnhântạo\BaoCao\EightQueens\EightQueensGA\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Thịnh\Desktop\ttnt\EightQueens\EightQueensGA\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
